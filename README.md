@@ -11,8 +11,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=60px src="![1](https://user-images.githubusercontent.com/101855945/202842101-2738a191-9ddd-4763-a98b-3078adeaae19.JPG)
-"> 
+<img height=60px src="https://user-images.githubusercontent.com/101855945/202842101-2738a191-9ddd-4763-a98b-3078adeaae19.JPG"> 
 </td>
 
 <td align="center" width="20%">
@@ -21,15 +20,17 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>Arduino</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/101855945/202842137-0f75fee4-cdde-4a8a-a5b6-77bd8fddf6ad.png
+"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>C#</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842153-30337f20-c264-461b-8bcb-c54c60588e5b.png
+"> 
 </td>
 
 <td align="center" width="20%">
@@ -38,15 +39,17 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842166-fd126a08-037c-4c4b-a3c0-7d70120397aa.png
+"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>MariaDB</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842187-602085dc-ebb9-40d3-8cee-350ade1b2b7b.png
+"> 
 </td>
 
 <td align="center" width="20%">
@@ -64,13 +67,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>Unity</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842212-b81290ce-1a11-42da-91aa-332fe6b8869a.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>Html</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842255-6b93d0a1-9c4b-43ff-8916-ab63ab7944fc.png"> 
 </td>
 
 <td align="center" width="20%">
