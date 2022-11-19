@@ -21,16 +21,14 @@
 
 <td align="center" width="20%">
 <span><b><center>Arduino</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/101855945/202842137-0f75fee4-cdde-4a8a-a5b6-77bd8fddf6ad.png
-"> 
+<img height=60px src="https://user-images.githubusercontent.com/101855945/202842374-0b41832d-f31d-4d87-8d7e-4982a359570d.jpg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>C#</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/101855945/202842153-30337f20-c264-461b-8bcb-c54c60588e5b.png
-"> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842153-30337f20-c264-461b-8bcb-c54c60588e5b.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -40,16 +38,14 @@
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/101855945/202842166-fd126a08-037c-4c4b-a3c0-7d70120397aa.png
-"> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842166-fd126a08-037c-4c4b-a3c0-7d70120397aa.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>MariaDB</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/101855945/202842187-602085dc-ebb9-40d3-8cee-350ade1b2b7b.png
-"> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842187-602085dc-ebb9-40d3-8cee-350ade1b2b7b.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -68,7 +64,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Unity</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/101855945/202842212-b81290ce-1a11-42da-91aa-332fe6b8869a.png"> 
+<img height=65px src="https://user-images.githubusercontent.com/101855945/202842450-1f7bbcd0-e8e6-43c7-af03-20a3bead3899.jpg"> 
 </td>
 
 <td align="center" width="20%">
