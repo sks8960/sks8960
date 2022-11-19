@@ -3,10 +3,6 @@
 ![1](https://user-images.githubusercontent.com/101855945/202841102-3c478be0-5b48-4db0-8263-c33165f26a7e.JPG)
 
 
-
-* :magnet: Check my projects :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/sks8960/sks8960/blob/main/Projects.md)
-
-
 ## Tech Stack :computer:
 
 <br>
@@ -14,8 +10,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>C</center></b></span> 
+<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F813110907714010025%2F&psig=AOvVaw0oMETGOX8SjtnCSru41L5-&ust=1668931926142000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDnzobmufsCFQAAAAAdAAAAABAE"> 
 </td>
 
 <td align="center" width="20%">
