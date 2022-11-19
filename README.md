@@ -11,7 +11,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=60px src=./images/1.png> 
+<img height=60px src="https://ibb.co/vXrXFqQ"> 
 </td>
 
 <td align="center" width="20%">
