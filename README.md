@@ -1,17 +1,10 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Welcome 👋 </h1>
+
+![1](https://user-images.githubusercontent.com/101855945/202841102-3c478be0-5b48-4db0-8263-c33165f26a7e.JPG)
 
 
-* I am [KyungSik Shin](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a Student :satellite:
 
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
-
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
-
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
-
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/sks8960/sks8960/blob/main/Projects.md)
+* :magnet: Check my projects :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/sks8960/sks8960/blob/main/Projects.md)
 
 
 ## Tech Stack :computer:
