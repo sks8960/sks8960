@@ -1,7 +1,7 @@
 
 ## My Projects and Repositories listed below
 
-<h2 align="center">Please Show Some Love :hugs: </h2>
+<h2 align="center">My Projects :hugs: </h2>
 
 | SL No | Project Name | Description | Link | Tech Stack |
 | ------ | ------------ | ------ | ----- | -------- |
