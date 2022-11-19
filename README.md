@@ -11,7 +11,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F813110907714010025%2F&psig=AOvVaw0oMETGOX8SjtnCSru41L5-&ust=1668931926142000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDnzobmufsCFQAAAAAdAAAAABAE"> 
+<img height=60px src=./images/1.png> 
 </td>
 
 <td align="center" width="20%">
