@@ -106,11 +106,12 @@
 
 | SL No | Project Name | Link | Files |
 | ------ | ------------ | ------ | --------- |
-| 1 | OSS Summary | https://github.com/sks8960/Unity-Game-Project | OSS 저작권, Linux, PyTorch, React, Tensorflow, VScode | 
-| 2 | Github Summary | https://github.com/sks8960/BigData | Issue, Milestone, Label, Project, Pull Request, Wiki |
+| 1 | OSS Summary | https://github.com/sks8960/sks8960/tree/main/OSS | OSS 저작권, Linux, PyTorch, React, Tensorflow, VScode | 
+| 2 | Github Summary | https://github.com/sks8960/sks8960/tree/main/Github | Issue, Milestone, Label, Project, Pull Request, Wiki |
 | 3 | Git Language | https://github.com/sks8960/Arduino | Git Summary |
 | 4 | Textbook Summary | https://github.com/sks8960/AWS- | 5장, 6장, 7장, 8장, 9 |
 | 5 | Git Cheat Sheet | https://github.com/sks8960/AWS- | Git & Github Cheet Sheet |
+| 6 | Markdown | https://github.com/sks8960/AWS- | Markdown |
 
 ----
 Credits: [sks8960](https://github.com/sks8960)
