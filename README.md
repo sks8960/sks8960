@@ -2,7 +2,6 @@
 
 ![1](https://user-images.githubusercontent.com/101855945/202841102-3c478be0-5b48-4db0-8263-c33165f26a7e.JPG)
 
-[Markdown정리](https://github.com/sks8960/OSS-lect/blob/main/QA%20%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%5D%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%A0%95%EB%A6%AC(10.19)/QA-05-20181820-%EC%8B%A0%EA%B2%BD%EC%8B%9D-markdown.md)
 
 ## Tech Stack :computer:
 
@@ -102,7 +101,7 @@
 
 ## Github & OSS summary
 
-<h2 align="center">Summary Folders 👇</h2>
+<h2 align="center">Summary Folders & Files 👇</h2>
 
 | SL No | Project Name | Link | Files |
 | ------ | ------------ | ------ | --------- |
@@ -111,7 +110,7 @@
 | 3 | Git Language | https://github.com/sks8960/Arduino | Git Summary |
 | 4 | Textbook Summary | https://github.com/sks8960/AWS- | 5장, 6장, 7장, 8장, 9 |
 | 5 | Git Cheat Sheet | https://github.com/sks8960/AWS- | Git & Github Cheet Sheet |
-| 6 | Markdown | https://github.com/sks8960/AWS- | Markdown |
+| 6 | Markdown | https://github.com/sks8960/OSS-lect/blob/main/QA%20%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%5D%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%A0%95%EB%A6%AC(10.19)/QA-05-20181820-%EC%8B%A0%EA%B2%BD%EC%8B%9D-markdown.md | Markdown |
 
 ----
 Credits: [sks8960](https://github.com/sks8960)
