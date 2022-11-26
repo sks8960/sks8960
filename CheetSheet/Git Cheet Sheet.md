@@ -67,6 +67,7 @@
 
 ### 커밋 되돌리기
 - git reset과 git revert를 통해 커밋을 되돌리기 가능
+- reset은 되돌린 후 커밋 이력 제거, revert는 현재까지의 커밋 이력에 되돌리기 커밋 추가
 - 'git reset'과 'git revert'는 'github' 같은 온라인 저장소에 올라가 다른 사람 간 코드 공유의 유(revert)무(reset)에 따라 달라짐
 - git reset --option '돌아갈 커밋'
 - git revert [commit hash]
