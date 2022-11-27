@@ -112,6 +112,8 @@
 | 5 | Markdown | [Markdown Link](https://github.com/sks8960/OSS-lect/blob/main/QA%20%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%5D%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%A0%95%EB%A6%AC(10.19)/QA-05-20181820-%EC%8B%A0%EA%B2%BD%EC%8B%9D-markdown.md) | Markdown |
 
 ----
-Credits: [sks8960](https://github.com/sks8960)
+Credits: [sks8960](https://github.com/sks8960)<br>
+
+Thank you 💻
 
 Last Edited on: 26/11/2022
