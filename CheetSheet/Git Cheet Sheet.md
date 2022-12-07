@@ -126,6 +126,7 @@ EX) 'HEAD^'는 마지막에서 2번째, 'HEAD^^'는 마지막에서 3번째
 
 ### 임시 커밋
 - 수정 및 단계적 변경 사항 저장 : git stash
+- 아직 마무리 하지 않은 작업을 스택에 잠시 저장
 - git stash로 저장되는 파일: Modified면서 Track되는 파일, Staging Area에 있는 파일
 - stash 스택의 맨 위에서 작업 쓰기 : git stash pop
 - stash 스택의 맨 위에서 변경 사항 삭제 : git stash drop
