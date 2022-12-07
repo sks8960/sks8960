@@ -60,6 +60,8 @@
  ### rebase
  - 지정된 것보다 먼저 현재 분기의 모든 커밋을 적용
  - 커밋 히스토리를 깔끔하게 관리할 수 있지만, 공개되어 사용하는 커밋을 rebase하면 문제 발생
+ - rebase 작업 중 충돌이 일어날 경우 충돌 해결하고나서 add한 후에 --continue 옵션 사용.
+ - rebase 자체를 취소할 경우 --abort 옵션 사용
 
  ### reset
  - 커밋을 되돌리는 명령어
@@ -72,11 +74,17 @@
  - --edit-no : 커밋 메시지 수정 안하는 옵션 (기존 커밋명 앞에 revert가 추가되는 형태로 자동 )
 
 ### stash
-- 수정 및 단계적 변경 사항 저장 : git stash
 - 아직 마무리 하지 않은 작업을 스택에 잠시 저장
+- 수정 및 단계적 변경 사항 저장 : git stash 또는 git stash save
+- stash 작업 후 working directory는 clean상태
 - git stash로 저장되는 파일: Modified면서 Track되는 파일, Staging Area에 있는 파일
-- stash 스택의 맨 위에서 작업 쓰기 : git stash pop
-- stash 스택의 맨 위에서 변경 사항 삭제 : git stash drop
+- git stash pop : 적용과 동시에 스태쉬 제거
+- git stash drop : 가장 최근의 스태쉬 제거
+- git stash list : 스태쉬 리스트 목록 확인
+- git stash apply : 가장 최근의 스태쉬를 가져와 적용 // 자동으로 staged 상태로 만들어 주지 않는다. 또한 스택에 여전히 남아있다.
+- git stash apply [스택이름] : 스태쉬 이름의 해당하는 스태쉬를 가져옴
+- git stash apply --index : staged 상태까지 복원
+- git stash show -p | git apply -R : 실수로 잘못 스태쉬 적용한 것을 되돌리고 싶을 때 사용
 
  ### 포인터
  - 깃은 객체 포인터 개념을 사용
