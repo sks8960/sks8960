@@ -71,6 +71,12 @@
  - 깃허브와 같은 온라인 저장소에 올라가 다른 사람 간 코드 공유를 허가
  - --edit-no : 커밋 메시지 수정 안하는 옵션 (기존 커밋명 앞에 revert가 추가되는 형태로 자동 )
 
+### stash
+- 수정 및 단계적 변경 사항 저장 : git stash
+- 아직 마무리 하지 않은 작업을 스택에 잠시 저장
+- git stash로 저장되는 파일: Modified면서 Track되는 파일, Staging Area에 있는 파일
+- stash 스택의 맨 위에서 작업 쓰기 : git stash pop
+- stash 스택의 맨 위에서 변경 사항 삭제 : git stash drop
 
  ### 포인터
  - 깃은 객체 포인터 개념을 사용
