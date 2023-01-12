@@ -82,10 +82,6 @@
 </table>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsks8960&count_bg=%2379C83D&title_bg=%23555555&icon=ipfs.svg&icon_color=%23B83434&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=sks8960&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sks8960)](https://github.com/sks8960)
 
 ## My Projects and Repositories
 
