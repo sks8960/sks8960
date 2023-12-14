@@ -89,7 +89,7 @@
 
 | SL No | Project Name | Description | Link | Tech Stack |
 | ------ | ------------ | ------ | ----- | -------- |
-| 1 | Web Project | My 4rd year team project with react | https://github.com/sks8960/Unity-Game-Project](https://github.com/sks8960/Football-Predict | React, Node, MySql | 
+| 1 | Web Project | My 4rd year team project with react | https://github.com/sks8960/Football-Predict | React, Node, MySql | 
 | 2 | Unity Game Project | My 3rd year team project with unity | https://github.com/sks8960/Unity-Game-Project | C#, Unity | 
 | 3 | BigData (Using Jupyter) | Ballon d'Or Analysis with Jupyter and Python | https://github.com/sks8960/BigData | Jupyter, Python |
 | 4 | Arduino Robot Cleaner | Making a robot vacuum cleaner | https://github.com/sks8960/Arduino | C, Arduino |
