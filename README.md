@@ -91,10 +91,11 @@
 | ------ | ------------ | ------ | ----- | -------- |
 | 1 | MAC (Match, Analysis, Community) | My 4rd year team project with react | https://github.com/sks8960/Football-Predict | React, Node, MySql | 
 | 2 | Unity Game Project | My 3rd year team project with unity | https://github.com/sks8960/Unity-Game-Project | C#, Unity | 
-| 3 | Emotion Diary | Emotion Diary with react | https://github.com/sks8960/EmotionDiary | React, Node | 
-| 4 | BigData (Using Jupyter) | Ballon d'Or Analysis with Jupyter and Python | https://github.com/sks8960/BigData | Jupyter, Python |
-| 5 | Arduino Robot Cleaner | Making a robot vacuum cleaner | https://github.com/sks8960/Arduino | C, Arduino |
-| 6 | AWS Training | Training AWS RDS and AWS CloudFront results | https://github.com/sks8960/AWS- | AWS RDS, AWS CloudFront |
+| 3 | Emotion Diary | Emotion Diary with react | https://github.com/sks8960/EmotionDiary | React, Node, JavaScript | 
+| 4 | TypeScropt-Todo List | Todo List & Schedule | https://github.com/sks8960/typescript-todoList | React, Node, TypeScript | 
+| 5 | BigData (Using Jupyter) | Ballon d'Or Analysis with Jupyter and Python | https://github.com/sks8960/BigData | Jupyter, Python |
+| 6 | Arduino Robot Cleaner | Making a robot vacuum cleaner | https://github.com/sks8960/Arduino | C, Arduino |
+| 7 | AWS Training | Training AWS RDS and AWS CloudFront results | https://github.com/sks8960/AWS- | AWS RDS, AWS CloudFront |
 
 
 ## Github & OSS summary
@@ -114,4 +115,4 @@ Credits: [sks8960](https://github.com/sks8960)<br>
 
 Thank you 💻
 
-Last Edited on: 14/12/2023
+Last Edited on: 21/02/2024
